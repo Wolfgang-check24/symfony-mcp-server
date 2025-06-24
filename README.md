@@ -4,6 +4,8 @@
   A powerful Symfony package to build a Model Context Protocol Server seamlessly
 </p>
 
+> **Note**: This fork was created to support Symfony 6.4. The original package targets Symfony 7+.
+
 <p align="center">
 <a href="https://github.com/klapaudius/symfony-mcp-server/actions"><img src="https://github.com/klapaudius/symfony-mcp-server/actions/workflows/tests.yml/badge.svg" alt="Build Status"></a>
 <a href="https://codecov.io/gh/klapaudius/symfony-mcp-server" >  <img src="https://codecov.io/gh/klapaudius/symfony-mcp-server/graph/badge.svg?token=5FXOJVXPZ1" alt="Coverage"/></a>
@@ -48,7 +50,7 @@ Key benefits:
 ## Requirements
 
 - PHP >=8.2
-- Symfony >=7
+- Symfony >=~~7~~ 6.4
 
 ## Installation
 
